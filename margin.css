@@ -1,0 +1,38 @@
+body{
+    background-color: lightcoral;
+}
+div{
+    display: block;
+    width: 70%;
+    height: 200px;
+}
+/* .parent{
+    background-color: greenyellow;
+    margin-bottom: 40px;
+    height: 200px;
+    padding: 10px;
+}
+.childone{
+    margin-top: 220px;
+    background-color: blueviolet;
+}
+.childtwo{
+    margin-top: 20px;
+    background-color: rgb(126, 4, 120);
+} */
+ /* .bottom{
+    background-color: aqua;
+    margin-bottom: 25px;
+ }
+ .top{
+    background-color: blue;
+    margin-top: 50px;
+ } */
+  .one{
+background-color: lightblue;
+margin-bottom: 40px;
+  }
+  .two{
+    background-color: lightgreen;
+    margin-top: 35px;
+  }
